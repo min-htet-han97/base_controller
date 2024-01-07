@@ -1,0 +1,1 @@
+Excluding ROS slam & nav 
